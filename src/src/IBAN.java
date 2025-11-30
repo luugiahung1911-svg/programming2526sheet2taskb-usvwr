@@ -1,4 +1,4 @@
-package src/;
+package src;
 import java.math.BigInteger;
 
 public class IBAN {
